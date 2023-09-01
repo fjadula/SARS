@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishNotation", "SARS\ReversePolishNotation.csproj", "{E0323AC7-9998-495F-A156-D05B5EA28221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSortApp", "NumberSortApp\NumberSortApp.csproj", "{C244ED27-477A-4469-A1F5-21EAF3AAE938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0323AC7-9998-495F-A156-D05B5EA28221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0323AC7-9998-495F-A156-D05B5EA28221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0323AC7-9998-495F-A156-D05B5EA28221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0323AC7-9998-495F-A156-D05B5EA28221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C244ED27-477A-4469-A1F5-21EAF3AAE938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C244ED27-477A-4469-A1F5-21EAF3AAE938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C244ED27-477A-4469-A1F5-21EAF3AAE938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C244ED27-477A-4469-A1F5-21EAF3AAE938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8EEFDB-A69D-43E9-AC27-BA1200392C5A}
+	EndGlobalSection
+EndGlobal
